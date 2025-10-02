@@ -1,6 +1,7 @@
 using Nancy;
 using Nancy.Bootstrapper;
 using Nancy.Configuration;
+using Nancy.Diagnostics;
 using Nancy.TinyIoc;
 using ReyV1.Api.Infrastructure;
 
